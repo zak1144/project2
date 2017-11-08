@@ -3,6 +3,8 @@
     box-sizing: border-box;
 }
 body {
+    margin: 0 auto;
+    max-width:1220px;
     font-family: 'Noto Sans', sans-serif ;
     line-height: 1.5em;
     }
@@ -182,7 +184,7 @@ main {
         .main-header,
         .main-footer{
             width:100%;
-            max-width:1440px;
+            max-width:1220px;
             
         }
         .main-header .name{
