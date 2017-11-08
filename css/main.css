@@ -36,11 +36,15 @@ h3{
 .picresize{
     width: 100%;
 }
-.portfolio{
+/*-----------new font style for links----------------------------------------*/
+#skills,
+.portfolio,
+.contact h2 {
     font-family: 'Tangerine', serif;
     font-size: 48px;
     text-shadow: 4px 4px 4px #aaa;
 }
+
 /*------------navigation-----------------------------*/
 
 
